@@ -1,7 +1,13 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+
+# Nossas regras personalizadas para o downloader
+*.mp3
+*.webm
+youtube/
 
 # C extensions
 *.so
