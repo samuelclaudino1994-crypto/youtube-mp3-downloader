@@ -1,5 +1,10 @@
 # 🎵 YouTube MP3 Batch Downloader
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-Latest-red)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Baixe e converta vídeos do YouTube para **MP3** de forma simples e rápida utilizando **Python**, **yt-dlp** e **FFmpeg**.
 
 Este projeto permite colar **quantos links desejar** e realizar o download automaticamente, convertendo todos os arquivos para **MP3 (192 kbps)** e salvando-os na pasta **Youtube** do usuário.
